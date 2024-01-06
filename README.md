@@ -1,4 +1,4 @@
-# K6 DEMO LOAD TESTING Project!
+# k6 Demo Load Testing Project!
 The suite consists of a different load test strategies,
 1) Rest APIs
 2) GraphQL
