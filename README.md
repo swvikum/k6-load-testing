@@ -1,6 +1,6 @@
-# K6 DEMO LOAD TESTING SCRIPTS!
-The suite consists of a different api test strategies,
-1) Rest API
+# K6 DEMO LOAD TESTING Project!
+The suite consists of a different load test strategies,
+1) Rest APIs
 2) GraphQL
 3) Web Sockets
 4) Data Generation: faker API
