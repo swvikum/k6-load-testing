@@ -1,0 +1,7645 @@
+{
+  "_id": "event_log",
+  "_rev": "366-bb060624815d45b5828e4809a619e735",
+  "events": [
+    {
+      "type": "LINEUP",
+      "payload": {
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "fillIns": [],
+        "rosteredPlayers": [
+          {
+            "playerNumber": null,
+            "participantID": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+            "firstName": "Henry",
+            "lastName": "A"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+            "firstName": "Mark",
+            "lastName": "A"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5",
+            "firstName": "Matthew",
+            "lastName": "A"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+            "firstName": "Mitchell",
+            "lastName": "B"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "7aea0aeb-c62a-43ab-bfca-237555a65c9c",
+            "firstName": "James",
+            "lastName": "J"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "e4d4de07-6134-4c66-8a4f-99c05ae78d84",
+            "firstName": "Kaarthekan",
+            "lastName": "K"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "179494cf-4092-419a-9291-2c38e42ae7a3",
+            "firstName": "Hunter",
+            "lastName": "M"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "47d08f5c-6d59-4ffb-9259-207ae8904df0",
+            "firstName": "Frankie",
+            "lastName": "T"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "4608e620-f613-44ad-abf7-6238bee2672f",
+            "firstName": "Ari",
+            "lastName": "V"
+          }
+        ],
+        "side": "HOME"
+      },
+      "id": "a5870601-fbb9-47ce-939d-6cace9868aa3",
+      "timestamp": 1645912780034,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "LINEUP",
+      "payload": {
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "fillIns": [],
+        "rosteredPlayers": [
+          {
+            "playerNumber": null,
+            "participantID": "6e234949-9936-473d-a24f-92dbd5614359",
+            "firstName": "H",
+            "lastName": "Addison"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "e666911a-d44a-4847-8359-1a5020039465",
+            "firstName": "J",
+            "lastName": "Bakker"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+            "firstName": "A",
+            "lastName": "Billing"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "260502f5-6d34-4314-bc3e-42a633212e32",
+            "firstName": "M",
+            "lastName": "Billing"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+            "firstName": "E",
+            "lastName": "Borham"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "f7e88bd7-96e3-433c-8aae-00cce3db89cc",
+            "firstName": "H",
+            "lastName": "McGunnigle"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+            "firstName": "E",
+            "lastName": "Nilaweera"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "95ca24c2-afe3-46fc-859a-3669490283ab",
+            "firstName": "L",
+            "lastName": "Simcock"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "62326f65-a82a-430c-b725-2aed1ac1adf1",
+            "firstName": "H",
+            "lastName": "Strempel"
+          }
+        ],
+        "side": "AWAY"
+      },
+      "id": "a4d8d428-ed9a-40c7-bc52-5cd76861f98a",
+      "timestamp": 1645912812716,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "LINEUP",
+      "payload": {
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "fillIns": [],
+        "rosteredPlayers": [
+          {
+            "playerNumber": null,
+            "participantID": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+            "firstName": "Henry",
+            "lastName": "A"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+            "firstName": "Mark",
+            "lastName": "A"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5",
+            "firstName": "Matthew",
+            "lastName": "A"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+            "firstName": "Mitchell",
+            "lastName": "B"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "7aea0aeb-c62a-43ab-bfca-237555a65c9c",
+            "firstName": "James",
+            "lastName": "J"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "e4d4de07-6134-4c66-8a4f-99c05ae78d84",
+            "firstName": "Kaarthekan",
+            "lastName": "K"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "179494cf-4092-419a-9291-2c38e42ae7a3",
+            "firstName": "Hunter",
+            "lastName": "M"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "47d08f5c-6d59-4ffb-9259-207ae8904df0",
+            "firstName": "Frankie",
+            "lastName": "T"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "4608e620-f613-44ad-abf7-6238bee2672f",
+            "firstName": "Ari",
+            "lastName": "V"
+          }
+        ],
+        "side": "HOME"
+      },
+      "id": "7eb115d5-5426-49fe-914a-40605e2ae508",
+      "timestamp": 1645913042914,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "LINEUP",
+      "payload": {
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "fillIns": [],
+        "rosteredPlayers": [
+          {
+            "playerNumber": null,
+            "participantID": "6e234949-9936-473d-a24f-92dbd5614359",
+            "firstName": "H",
+            "lastName": "Addison"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "e666911a-d44a-4847-8359-1a5020039465",
+            "firstName": "J",
+            "lastName": "Bakker"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+            "firstName": "A",
+            "lastName": "Billing"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "260502f5-6d34-4314-bc3e-42a633212e32",
+            "firstName": "M",
+            "lastName": "Billing"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+            "firstName": "E",
+            "lastName": "Borham"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "f7e88bd7-96e3-433c-8aae-00cce3db89cc",
+            "firstName": "H",
+            "lastName": "McGunnigle"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+            "firstName": "E",
+            "lastName": "Nilaweera"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "95ca24c2-afe3-46fc-859a-3669490283ab",
+            "firstName": "L",
+            "lastName": "Simcock"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "62326f65-a82a-430c-b725-2aed1ac1adf1",
+            "firstName": "H",
+            "lastName": "Strempel"
+          }
+        ],
+        "side": "AWAY"
+      },
+      "id": "971d2cf1-230a-4043-a47d-a8e129a39498",
+      "timestamp": 1645913042914,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "GAME_TYPE_SETTINGS",
+      "payload": {
+        "eScoringSettings": {
+          "gameType": "t20",
+          "overs": 20,
+          "hasSuperOver": true,
+          "superOverUsage": "ALWAYS",
+          "maxBattersPerInnings": 11,
+          "isFinalsGame": false,
+          "legalBallsPerOver": 6,
+          "dismissalsPerBatter": 1,
+          "runsGainedPerWicket": 0,
+          "runsGainedPerWide": 1,
+          "runsGainedPerWideFinalOver": 1,
+          "wideCountsAsBallsFaced": false,
+          "reBowlWides": false,
+          "reBowlWidesOver": "FINAL_OVERS",
+          "runsGainedPerNoBall": 1,
+          "runsGainedPerNoBallFinalOver": 1,
+          "noBallCountsAsBallsFaced": true,
+          "reBowlNoBalls": false,
+          "reBowlNoBallsOver": "FINAL_OVERS",
+          "strikeChangeAfterWicket": false,
+          "lastBatterStands": false
+        }
+      },
+      "id": "c4953b3c-abc7-4320-873c-4aa00e22b629",
+      "timestamp": 1645913042914,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "COIN_TOSS",
+      "payload": {
+        "winner": {
+          "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+          "side": "AWAY",
+          "result": "BOWL"
+        }
+      },
+      "id": "3a8431b4-453a-4178-8cbb-ab5d826e3143",
+      "timestamp": 1645913042914,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_START",
+      "payload": {
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "playerID": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd"
+      },
+      "id": "5834c8a7-e88d-4e34-899d-791f7d5feb33",
+      "timestamp": 1645913042914,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_START",
+      "payload": {
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "playerID": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+      },
+      "id": "c454abba-54b9-416c-8c99-14c44d3e43e4",
+      "timestamp": 1645913042914,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY",
+        "playerID": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+      },
+      "id": "22a96e41-aa48-4417-b97b-a688eaa8cb51",
+      "timestamp": 1645913042914,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "START_INNINGS",
+      "payload": {
+        "isSuperOver": false
+      },
+      "id": "2ecaf4a0-7436-4e8c-b7d9-6e8c9313ea5d",
+      "timestamp": 1645913042914,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+          "statistics": {
+            "runs": 4
+          }
+        }
+      },
+      "id": "afa2c399-acc5-4a95-971c-95e2c5a0e15e",
+      "timestamp": 1645913050481,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "BYES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "013a2676-068f-4b2f-9be8-3b458c29bd83",
+      "timestamp": 1645913098640,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "NO_BALLS",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "bf783c64-4a02-4bdb-9db5-e8ee4d8e4224",
+      "timestamp": 1645913119088,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "57f03945-98e1-4316-abb2-327abc615f04",
+      "timestamp": 1645913128779,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "8e69e09c-b83e-4c41-9a4a-5463983c634a",
+      "timestamp": 1645913151804,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "NO_BALLS",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "64491af0-9672-4b4f-b7d1-bf5c21fb6de1",
+      "timestamp": 1645913172695,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "95ca24c2-afe3-46fc-859a-3669490283ab",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "ffcc58ff-9b02-4950-8704-9f1ea31d55e8",
+      "timestamp": 1645913201997,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab"
+        },
+        "batter": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "WIDES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "db6ec77d-31c3-435b-87e0-102bf055cbc4",
+      "timestamp": 1645913210790,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab"
+        },
+        "batter": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "63cf2d1b-6f32-40df-a048-806a6a7d6779",
+      "timestamp": 1645913241292,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab"
+        },
+        "batter": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "7da75e5a-69e3-4994-b3b8-fcdcf16d6c7a",
+      "timestamp": 1645913276526,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab"
+        },
+        "batter": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "NO_BALLS",
+            "runs": 1
+          },
+          {
+            "type": "BYES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "48593a02-2244-43de-95a5-f15ff709905e",
+      "timestamp": 1645913301766,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab"
+        },
+        "batter": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "5ef00aba-83a9-4999-bd14-758a69857df6",
+      "timestamp": 1645913319375,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab"
+        },
+        "batter": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "e7aa7d85-0fa9-4b1b-be19-51809e549b38",
+      "timestamp": 1645913326987,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "f7e88bd7-96e3-433c-8aae-00cce3db89cc",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "b4478cea-211c-42a5-abe3-375fcd9a8f76",
+      "timestamp": 1645913347538,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+        },
+        "batter": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "BYES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "4f4af997-b0bf-48b0-8cad-c4175d8fa587",
+      "timestamp": 1645913363164,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+        },
+        "batter": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "28a60c51-cafe-4b7e-aba0-6280b1a2f81f",
+      "timestamp": 1645913375479,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+        },
+        "batter": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "07a9178a-3ff7-4bfc-98c9-dac250d6dd05",
+      "timestamp": 1645913400679,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+        },
+        "batter": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "2c2eef02-733d-4567-bb6b-1bfb4646d3b4",
+      "timestamp": 1645913420734,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+        },
+        "batter": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "782a543b-0965-4425-b879-ac1e1797f808",
+      "timestamp": 1645913442429,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+        },
+        "batter": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "15060cd2-5aed-4ba9-bce6-0ec0d07dbc97",
+      "timestamp": 1645913471022,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "ceaeb3aa-da4b-4e6c-8b2d-6cd7aa00088d",
+      "timestamp": 1645913492106,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "4cc397c6-4a00-45c1-8094-98b264ab5372",
+      "timestamp": 1645913506666,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "4cc397c6-4a00-45c1-8094-98b264ab5372"
+      },
+      "id": "7a4be829-5d64-4b73-80f4-c4fdc1b3f002",
+      "timestamp": 1645913514498,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "639497e2-e7c9-43ed-882a-a36bba974367",
+      "timestamp": 1645913575584,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+          "statistics": {
+            "runs": 4
+          }
+        }
+      },
+      "id": "1360bf45-79f3-4853-a1f3-bf69b5186817",
+      "timestamp": 1645913577611,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "1360bf45-79f3-4853-a1f3-bf69b5186817"
+      },
+      "id": "7141ad65-7e8b-43f9-ab19-f0964ff4def4",
+      "timestamp": 1645913585651,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "BYES",
+            "runs": 4
+          }
+        ]
+      },
+      "id": "a41e2ddf-70ec-49f9-8415-c2d0244534e8",
+      "timestamp": 1645913592430,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "b7246031-3267-475b-b649-e6038fe2bcdb",
+      "timestamp": 1645913593448,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "18a8c234-de2f-4a27-82e9-c065f8a9970a",
+      "timestamp": 1645913613662,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "3cb65172-a8f5-4d77-9fad-77ba271a0cd3",
+      "timestamp": 1645913635915,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+          "statistics": {
+            "runs": 1
+          }
+        },
+        "extras": [
+          {
+            "type": "NO_BALLS",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "38767d92-9e22-445c-8a1d-4880001877d6",
+      "timestamp": 1645913649741,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "38767d92-9e22-445c-8a1d-4880001877d6"
+      },
+      "id": "ca32a1f0-b233-4748-ad58-545c3d61c79b",
+      "timestamp": 1645913663786,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "RETIRED",
+      "payload": {
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "playerID": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+        "isOut": false
+      },
+      "id": "2f9e0f9d-3d74-4bcc-ada0-b8be69c5f6a7",
+      "timestamp": 1645913702775,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_START",
+      "payload": {
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "playerID": "179494cf-4092-419a-9291-2c38e42ae7a3"
+      },
+      "id": "8c70c059-e88b-4e57-8ced-0aa8eef83212",
+      "timestamp": 1645913702775,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "BYES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "198952dd-934d-4b66-bf15-48b07ca04bc8",
+      "timestamp": 1645913710622,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "6e234949-9936-473d-a24f-92dbd5614359",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "a00dc892-2cb5-43b7-8d9d-3d2b9b906564",
+      "timestamp": 1645913718159,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_SWAP_STRIKE",
+      "id": "6b5b1bd9-ea72-411d-afe3-2a930da1899f",
+      "timestamp": 1645913755865,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359"
+        },
+        "batter": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "b5330bc6-a902-424f-a7ef-9c3d2c079594",
+      "timestamp": 1645913757885,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359"
+        },
+        "batter": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "a0275ca3-6650-4db8-b492-d8000be163fc",
+      "timestamp": 1645913777120,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359"
+        },
+        "batter": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "fcee52f6-d8ab-40c1-8f28-407bf56b3c74",
+      "timestamp": 1645913836918,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359"
+        },
+        "batter": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+          "statistics": {
+            "runs": 4
+          }
+        }
+      },
+      "id": "48c43d83-e4b2-460d-b4cc-4dab4f8cd4cd",
+      "timestamp": 1645913855384,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359"
+        },
+        "batter": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "bc11497b-461e-493b-8ee1-6db31089d6b8",
+      "timestamp": 1645913866221,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359"
+        },
+        "batter": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "69a98b9e-5de2-4ead-a561-eb50ca7fe1eb",
+      "timestamp": 1645913869611,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "e666911a-d44a-4847-8359-1a5020039465",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "fc489673-ef3b-4e54-9b42-7e069c7f0685",
+      "timestamp": 1645913900326,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465"
+        },
+        "batter": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "e80440a3-12f6-45e9-8cf3-a8f628b4b0c8",
+      "timestamp": 1645913904898,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "e80440a3-12f6-45e9-8cf3-a8f628b4b0c8"
+      },
+      "id": "be35817f-ac36-4348-8755-763bf5edf881",
+      "timestamp": 1645913914121,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465"
+        },
+        "batter": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+          "statistics": {
+            "runs": 3
+          }
+        }
+      },
+      "id": "0be70e69-a940-4f92-8964-3a0ed0ae8b4b",
+      "timestamp": 1645913915418,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465"
+        },
+        "batter": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "e889d0ad-638c-48ab-b862-97a26e9486ac",
+      "timestamp": 1645913937019,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465"
+        },
+        "batter": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "3b2b4f5d-8bfe-4a6b-9b0f-85c2eb7ab8bb",
+      "timestamp": 1645913961035,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "RETIRED",
+      "payload": {
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "playerID": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+        "isOut": false
+      },
+      "id": "48512318-f82c-4611-b01c-a23b20c9d07b",
+      "timestamp": 1645913986584,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_START",
+      "payload": {
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "playerID": "47d08f5c-6d59-4ffb-9259-207ae8904df0"
+      },
+      "id": "ecdbd4d4-cda8-4785-a8a8-3c78d6c0a85b",
+      "timestamp": 1645913986584,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_SWAP_STRIKE",
+      "id": "603f4525-f897-4671-b569-2cd3fa0579a1",
+      "timestamp": 1645913995006,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465"
+        },
+        "batter": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "78268b1e-c770-435a-b5a1-215c659fd546",
+      "timestamp": 1645913995817,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465"
+        },
+        "batter": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "NO_BALLS",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "7dcbaab0-eed6-4eb1-a58e-6d00dd468001",
+      "timestamp": 1645914018116,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465"
+        },
+        "batter": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "LEG_BYES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "471c7678-9664-4f57-87b7-9e94a43e16e2",
+      "timestamp": 1645914043335,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "58464ed5-16f3-4388-affa-25d42a7ea3e4",
+      "timestamp": 1645914061953,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "NO_BALLS",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "5316e062-f9bf-4fa7-91b2-05199174a366",
+      "timestamp": 1645914075235,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_SWAP_STRIKE",
+      "id": "eaa92308-a55b-451c-80bc-452483fd253b",
+      "timestamp": 1645914125980,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "ca4ba9bd-8dcd-438f-8a24-c3209b05e1fd",
+      "timestamp": 1645914127411,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "d7f97564-6e8c-4f77-bc77-578682d8ac80",
+      "timestamp": 1645914150884,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "4e9c321f-94dc-4b34-a1e9-b2d04f652d85",
+      "timestamp": 1645914169036,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "4e9c321f-94dc-4b34-a1e9-b2d04f652d85"
+      },
+      "id": "bcfd26f5-d91d-4110-8339-6dac39d46f25",
+      "timestamp": 1645914175040,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3",
+          "statistics": {
+            "runs": 3
+          }
+        }
+      },
+      "id": "99a9a66b-8560-430c-bc1c-26e6e32ef32b",
+      "timestamp": 1645914178488,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "NO_BALLS",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "5aecf022-6e7e-471b-b3ac-d219d69c0e9e",
+      "timestamp": 1645914219513,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "00cd6c21-fca8-4fda-864e-dd5fe997e805",
+      "timestamp": 1645914244104,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "f7e88bd7-96e3-433c-8aae-00cce3db89cc",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "07525e09-a7a3-4d23-95e0-b7325e5cabde",
+      "timestamp": 1645914274141,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+        },
+        "batter": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "98f520f2-4cf1-4a75-85eb-e55239e0a5f3",
+      "timestamp": 1645914275189,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+        },
+        "batter": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "NO_BALLS",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "c2c20f23-84a6-4587-8632-2a8c3d2e196d",
+      "timestamp": 1645914284155,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+        },
+        "batter": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "NO_BALLS",
+            "runs": 1
+          },
+          {
+            "type": "BYES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "92a130e6-fe47-4d38-901a-3372d0edff95",
+      "timestamp": 1645914288655,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+        },
+        "batter": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "fb20507b-a012-4664-a5f9-0d25152d3797",
+      "timestamp": 1645914306174,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+        },
+        "batter": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "9a1c65b2-d39c-4226-bcef-5788b65cbcf5",
+      "timestamp": 1645914377724,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "9a1c65b2-d39c-4226-bcef-5788b65cbcf5"
+      },
+      "id": "e8499c0e-6565-4970-8d99-6a8fc39ff774",
+      "timestamp": 1645914384024,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+        },
+        "batter": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3",
+          "statistics": {
+            "runs": 3
+          }
+        }
+      },
+      "id": "866e8ab6-2e9a-4967-a7fb-bb76f62445fd",
+      "timestamp": 1645914389523,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+        },
+        "batter": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "WIDES",
+            "runs": 2
+          }
+        ]
+      },
+      "id": "cff09bc2-d0ae-4f6c-a176-dbb8dc40f21e",
+      "timestamp": 1645914409526,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "6e234949-9936-473d-a24f-92dbd5614359",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "af1f477b-e768-4602-b6b6-5b804d8d0ba2",
+      "timestamp": 1645914431059,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359"
+        },
+        "batter": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "f83489c4-9f9e-460a-add2-fbce4499432c",
+      "timestamp": 1645914448527,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "f83489c4-9f9e-460a-add2-fbce4499432c"
+      },
+      "id": "8ddea601-3d99-4380-9a2f-f2332f42d974",
+      "timestamp": 1645914453986,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359"
+        },
+        "batter": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "dc843aaf-1ac3-449b-b5b9-cca30c054870",
+      "timestamp": 1645914462006,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "RETIRED",
+      "payload": {
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "playerID": "179494cf-4092-419a-9291-2c38e42ae7a3",
+        "isOut": false
+      },
+      "id": "e43afc6e-41ea-412f-978d-f326c0df9114",
+      "timestamp": 1645914487982,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_START",
+      "payload": {
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "playerID": "e4d4de07-6134-4c66-8a4f-99c05ae78d84"
+      },
+      "id": "81bb7b13-2db5-4771-8d60-a682a6d3c3c1",
+      "timestamp": 1645914487982,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_SWAP_STRIKE",
+      "id": "4f570edb-772a-4166-b3d2-a69a2a582f81",
+      "timestamp": 1645914563638,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359"
+        },
+        "batter": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "3705f0de-c89f-4ded-aac1-4ace13bf803b",
+      "timestamp": 1645914581260,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359"
+        },
+        "batter": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "WIDES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "d1ce095a-e51a-40da-9112-4d5d4ec6fc03",
+      "timestamp": 1645914600813,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359"
+        },
+        "batter": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "6ceba9c7-0529-43cc-a547-1a693f011115",
+      "timestamp": 1645914630289,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359"
+        },
+        "batter": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "3f2b6459-0dc5-4638-83ac-841ec4f910d0",
+      "timestamp": 1645914660410,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359"
+        },
+        "batter": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "baee8c43-a618-4de8-bd91-9f42aa892d92",
+      "timestamp": 1645914673927,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "54429b2b-ca56-4159-8724-2b43e85896e6",
+      "timestamp": 1645914688165,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "91fe53ad-0ada-4e9c-867d-1d9423e23723",
+      "timestamp": 1645914715029,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "WIDES",
+            "runs": 2
+          }
+        ]
+      },
+      "id": "0b8aacd4-2de5-43c9-b1a2-0c06b44a820b",
+      "timestamp": 1645914738020,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "7a13c9c5-d45a-426a-b168-fd4125e48b24",
+      "timestamp": 1645914765162,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "ba89970c-8351-453e-90fd-faa5d1ecb667",
+      "timestamp": 1645914783913,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "ba89970c-8351-453e-90fd-faa5d1ecb667"
+      },
+      "id": "ebee84ce-a6f6-42af-834d-43a397a04c59",
+      "timestamp": 1645914788379,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "9b82ee2f-c369-4519-b7b7-f79d7c059929",
+      "timestamp": 1645914789127,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "b45a5e8d-dd31-43fb-b9bc-ccfbf6d2a047",
+      "timestamp": 1645914822161,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "RETIRED",
+      "payload": {
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "playerID": "47d08f5c-6d59-4ffb-9259-207ae8904df0",
+        "isOut": false
+      },
+      "id": "32d852b2-5b8c-4dbe-bad9-5983a92e084d",
+      "timestamp": 1645914834216,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_START",
+      "payload": {
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "playerID": "7aea0aeb-c62a-43ab-bfca-237555a65c9c"
+      },
+      "id": "7b54fe0e-b7bd-4e7d-8def-573bc116c102",
+      "timestamp": 1645914834216,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "5e5290c0-5bcd-4a29-ab4c-c6c907964e1e",
+      "timestamp": 1645914906095,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "cc2b27c8-e579-4fe3-8b06-cc521b2a7c77",
+      "timestamp": 1645914913535,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1"
+        },
+        "batter": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "75a6360d-3bec-48d5-aedc-4bdf29d07b4d",
+      "timestamp": 1645914922649,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1"
+        },
+        "batter": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "8c060a69-29cf-447b-bdd0-a9c90376c020",
+      "timestamp": 1645914924078,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1"
+        },
+        "batter": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "204b952f-f43a-4acd-b482-c0c4dc734dbd",
+      "timestamp": 1645915077893,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1"
+        },
+        "batter": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "03881272-3021-4a61-bd1f-2a6c4de2be4e",
+      "timestamp": 1645915078465,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1"
+        },
+        "batter": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "141ccaa4-bd1b-4ad1-a44f-164d1e780954",
+      "timestamp": 1645915207040,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1"
+        },
+        "batter": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "70635356-8e7c-42b4-a3df-d4e1601619f1",
+      "timestamp": 1645915208325,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "6e234949-9936-473d-a24f-92dbd5614359",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "307d0cac-8429-41d3-a7ee-76f1b8692946",
+      "timestamp": 1645915221370,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "70635356-8e7c-42b4-a3df-d4e1601619f1"
+      },
+      "id": "b9c1c0c4-b686-46a7-94c2-dd5d1f566341",
+      "timestamp": 1645915242766,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "307d0cac-8429-41d3-a7ee-76f1b8692946"
+      },
+      "id": "844fad1a-2f7e-4605-938b-46820dfb2365",
+      "timestamp": 1645915242767,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1"
+        },
+        "batter": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "be1a780f-5cb1-4e0a-99eb-520698faf573",
+      "timestamp": 1645915244918,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "260502f5-6d34-4314-bc3e-42a633212e32",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "a9d06b68-a5a8-435c-ba71-1514bff818ed",
+      "timestamp": 1645915249714,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "260502f5-6d34-4314-bc3e-42a633212e32"
+        },
+        "batter": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "f3b56670-13b6-4dcd-a132-d943c5719337",
+      "timestamp": 1645915252292,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "260502f5-6d34-4314-bc3e-42a633212e32"
+        },
+        "batter": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "WIDES",
+            "runs": 2
+          }
+        ]
+      },
+      "id": "4b12578d-95ad-4099-bf06-3d54cf040182",
+      "timestamp": 1645915277137,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "260502f5-6d34-4314-bc3e-42a633212e32"
+        },
+        "batter": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "477c4af4-3ca9-4d12-805d-6ca1a2ecb31e",
+      "timestamp": 1645915299748,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "260502f5-6d34-4314-bc3e-42a633212e32"
+        },
+        "batter": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "8e3d31f5-e186-413c-9d6b-d1e267d6487b",
+      "timestamp": 1645915332821,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_SWAP_STRIKE",
+      "id": "6e5d48fd-901b-4f66-b7bb-8de1c354d98f",
+      "timestamp": 1645915343216,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "RETIRED",
+      "payload": {
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "playerID": "7aea0aeb-c62a-43ab-bfca-237555a65c9c",
+        "isOut": false
+      },
+      "id": "c4cebe94-4755-4347-935a-7c1258ebb641",
+      "timestamp": 1645915364714,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_START",
+      "payload": {
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "playerID": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+      },
+      "id": "b60011fc-fbe7-4dab-848d-4d084bb5d0f1",
+      "timestamp": 1645915364714,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "260502f5-6d34-4314-bc3e-42a633212e32"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 4
+          }
+        }
+      },
+      "id": "25f39412-aa61-4a56-9615-c74884d1f6d3",
+      "timestamp": 1645915394503,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "95ca24c2-afe3-46fc-859a-3669490283ab",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "2d621072-f301-4a41-929e-f91bd1307ee6",
+      "timestamp": 1645915436521,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "7a2e37d8-56d3-44e5-a837-8732f556cc33",
+      "timestamp": 1645915450407,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "6e234949-9936-473d-a24f-92dbd5614359",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "da56cada-adbb-4b1c-969a-0288e4af04cb",
+      "timestamp": 1645915502292,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 1
+          }
+        },
+        "extras": [
+          {
+            "type": "NO_BALLS",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "9d427baa-5ccd-41ed-a314-695186733d2d",
+      "timestamp": 1645915508200,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359"
+        },
+        "batter": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "WIDES",
+            "runs": 2
+          }
+        ]
+      },
+      "id": "72f0aeef-3d70-4c8a-a7ed-d3aaa69a681c",
+      "timestamp": 1645915576206,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_SWAP_STRIKE",
+      "id": "0627a3dd-3c1f-49a2-b79f-e6c877acc7b2",
+      "timestamp": 1645915601908,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359"
+        },
+        "batter": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "wicket": {
+          "type": "BOWLED",
+          "batter": {
+            "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84"
+          },
+          "crossed": ""
+        }
+      },
+      "id": "1fe35074-4a5b-4995-8a8a-7e60fba38d04",
+      "timestamp": 1645915641554,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_START",
+      "payload": {
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "playerID": "4608e620-f613-44ad-abf7-6238bee2672f"
+      },
+      "id": "b4d33345-d2ee-4a8c-9eb2-e3137a644469",
+      "timestamp": 1645915641554,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_SWAP_STRIKE",
+      "id": "c9ec94fb-f5ca-4c13-9c88-0a3289aec7ea",
+      "timestamp": 1645915657777,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "b57882fc-92a1-486b-83e8-c1d57a4e3025",
+      "timestamp": 1645915691661,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359"
+        },
+        "batter": {
+          "id": "4608e620-f613-44ad-abf7-6238bee2672f",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "451bdf60-97fd-44a9-ba12-7eac53535894",
+      "timestamp": 1645915746381,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359"
+        },
+        "batter": {
+          "id": "4608e620-f613-44ad-abf7-6238bee2672f",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "NO_BALLS",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "d28fc595-c1eb-49fc-a6d4-849ce3452206",
+      "timestamp": 1645915771195,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "f7e88bd7-96e3-433c-8aae-00cce3db89cc",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "b1810461-169f-46b6-ba7e-559507b7d4a4",
+      "timestamp": 1645915781764,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "42762d19-506e-4514-96f1-98a4e3ddfb94",
+      "timestamp": 1645915844903,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+        },
+        "batter": {
+          "id": "4608e620-f613-44ad-abf7-6238bee2672f",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "ce7f8fbc-c18a-49ac-b62b-d04b6dd8b84c",
+      "timestamp": 1645915858571,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "93264e0e-54ca-4961-84e8-add9928d8afb",
+      "timestamp": 1645915893443,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "51bcb61e-bb91-48b9-a450-855a109109df",
+      "timestamp": 1645915961159,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "51bcb61e-bb91-48b9-a450-855a109109df"
+      },
+      "id": "1abb5f37-49fe-4e9f-b09a-f9adbed4e97e",
+      "timestamp": 1645915966667,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "4346dcfa-7cda-496a-b29e-cf435e0801ff",
+      "timestamp": 1645915968148,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "WIDES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "39407c0d-9d28-4ea4-9d9d-1d6e364003c9",
+      "timestamp": 1645916008340,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "5b9abb74-b5cb-4996-8c09-1f3df26fb8b9",
+      "timestamp": 1645916018187,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "2ef801a4-8e7f-410b-b81c-9c916634b550",
+      "timestamp": 1645916043641,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1"
+        },
+        "batter": {
+          "id": "4608e620-f613-44ad-abf7-6238bee2672f",
+          "statistics": {
+            "runs": 4
+          }
+        }
+      },
+      "id": "3ba89b02-9500-445d-b2cf-dbe1ac956dba",
+      "timestamp": 1645916052023,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1"
+        },
+        "batter": {
+          "id": "4608e620-f613-44ad-abf7-6238bee2672f",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "1c296a1f-0d8d-4d6d-981b-d27b6d23c008",
+      "timestamp": 1645916086833,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "1c296a1f-0d8d-4d6d-981b-d27b6d23c008"
+      },
+      "id": "032bee06-9402-4b24-b3b7-1b66a721d8c5",
+      "timestamp": 1645916093144,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1"
+        },
+        "batter": {
+          "id": "4608e620-f613-44ad-abf7-6238bee2672f",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "23f86452-8980-4f93-a23f-8c9e4885e23f",
+      "timestamp": 1645916153857,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "9e01911d-084d-43a7-a724-86ce2b916fd4",
+      "timestamp": 1645916159719,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_SWAP_STRIKE",
+      "id": "95d77be2-3234-498b-ae5c-301e15f70eac",
+      "timestamp": 1645916302621,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1"
+        },
+        "batter": {
+          "id": "4608e620-f613-44ad-abf7-6238bee2672f",
+          "statistics": {
+            "runs": 3
+          }
+        }
+      },
+      "id": "8d8ab301-0f51-44d9-8837-e4ab20510d9d",
+      "timestamp": 1645916303975,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "0225f466-c39f-4b65-98e8-fa664915a89b",
+      "timestamp": 1645916315803,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1"
+        },
+        "batter": {
+          "id": "4608e620-f613-44ad-abf7-6238bee2672f",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "wicket": {
+          "type": "HIT_WICKET",
+          "batter": {
+            "id": "4608e620-f613-44ad-abf7-6238bee2672f"
+          },
+          "crossed": ""
+        }
+      },
+      "id": "9a7125d1-a4b6-40a9-b884-5d4d5b7c2015",
+      "timestamp": 1645916374536,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_START",
+      "payload": {
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "playerID": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5"
+      },
+      "id": "8e26290d-81ec-437d-9dee-f517fb060ddb",
+      "timestamp": 1645916374536,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "6e234949-9936-473d-a24f-92dbd5614359",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "e3e8578a-df9d-40c7-9e98-9d00f79ee654",
+      "timestamp": 1645916386447,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "f24b9482-1f9c-4af8-9ef0-2be0628ffa87",
+      "timestamp": 1645916443272,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "95ca24c2-afe3-46fc-859a-3669490283ab",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "3c2caca4-3325-437e-bacc-cacfbda4eafd",
+      "timestamp": 1645916641248,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "NO_BALLS",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "49f505d7-1352-4896-9952-b9fcb3e6a704",
+      "timestamp": 1645916704236,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "47d261ba-4b4c-49c2-a19c-ffda0fbbd5e7",
+      "timestamp": 1645916732768,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "dc2f029a-4f37-4626-bd07-0bc513c8041e",
+      "timestamp": 1645916733362,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "693ce6b6-0039-42cf-bd85-9598d642914e",
+      "timestamp": 1645916733437,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "1022de9d-51b7-42bd-9f7a-7b24061566ac",
+      "timestamp": 1645916736975,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "2299527c-8bc2-400f-a952-ddadf331325d",
+      "timestamp": 1645916741444,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "f71ce1df-d81c-421a-ae8c-644198562b3b",
+      "timestamp": 1645916744144,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "c8257d80-0edd-49c1-89c5-8da213a00f75",
+      "timestamp": 1645916744811,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "b1057649-b6e5-4dcc-a968-e2d43b650529",
+      "timestamp": 1645916745483,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "a0ae5e61-1e19-446c-99e5-cc91c3bf1f7c",
+      "timestamp": 1645916746117,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "1ab276dd-c546-42e5-b3a4-261d93e86a92",
+      "timestamp": 1645916746777,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "0923c718-a7e8-42cd-949e-ba9aeafefe75",
+      "timestamp": 1645916746818,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "83e042f5-1487-44ed-8b33-35313ed44d20",
+      "timestamp": 1645916747477,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "62326f65-a82a-430c-b725-2aed1ac1adf1",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "1fe11614-d536-4e28-9508-6af1707f50c9",
+      "timestamp": 1645916751848,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "62326f65-a82a-430c-b725-2aed1ac1adf1"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "f9513b2c-36ca-42fd-872d-e9fdde77ab55",
+      "timestamp": 1645916753582,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "62326f65-a82a-430c-b725-2aed1ac1adf1"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "57836248-4875-4f3e-a1b0-6d13b411dca7",
+      "timestamp": 1645916754234,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "62326f65-a82a-430c-b725-2aed1ac1adf1"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "2678df8e-98aa-47e5-afd9-4e1ba3afd77b",
+      "timestamp": 1645916754875,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "62326f65-a82a-430c-b725-2aed1ac1adf1"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "b0258a14-3df5-4b2c-9921-3d2a0235a4c7",
+      "timestamp": 1645916755770,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "62326f65-a82a-430c-b725-2aed1ac1adf1"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "25494551-5207-4d46-89d8-ef2e7ae3ce70",
+      "timestamp": 1645916756461,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "d6e2e75c-f12d-437e-9f5a-4559f404cbe6",
+      "timestamp": 1645916760875,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "74be2f76-5fb6-43bf-96b2-c8b28509e47a",
+      "timestamp": 1645916766058,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "600e6ff6-7813-4228-9449-faab3089a7b8",
+      "timestamp": 1645916769263,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "8dfa00a0-b422-4b47-8229-ddca521791a6",
+      "timestamp": 1645916769901,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "ba6d273b-f439-409a-8e86-83cc5b0d7929",
+      "timestamp": 1645916770592,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "a9405df5-39a5-4a91-ade3-0787f2b28042",
+      "timestamp": 1645916771250,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "0bede5c8-9559-47ae-a29e-db5bb21a4b14",
+      "timestamp": 1645916772104,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "side": "AWAY"
+      },
+      "id": "8a7ee18d-c844-4f89-8774-c329f9b885ab",
+      "timestamp": 1645916784190,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "bdfaede8-74f1-4e18-befa-b46540472f7e",
+      "timestamp": 1645916785552,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "ad78481f-57ca-45a6-8a2c-435bb98dacc0",
+      "timestamp": 1645916786283,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 3
+          }
+        }
+      },
+      "id": "26956144-e37b-4ecd-a29d-c42894f18ac8",
+      "timestamp": 1645916786980,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "58e51c09-0ef7-48be-bd8f-079a4e3cb2df",
+      "timestamp": 1645916787885,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "f957fa20-80ec-4bcd-a62c-ad548d577a5f",
+      "timestamp": 1645916788591,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "57ae6c16-8672-4cbf-b0a2-ec72933be107",
+      "timestamp": 1645916796038,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "57ae6c16-8672-4cbf-b0a2-ec72933be107"
+      },
+      "id": "66fafe85-d18a-445d-afc0-9722928fae62",
+      "timestamp": 1645916807966,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "f957fa20-80ec-4bcd-a62c-ad548d577a5f"
+      },
+      "id": "7d1cfafb-cdba-458a-a29d-bfd92509d3bf",
+      "timestamp": 1645916810833,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "58e51c09-0ef7-48be-bd8f-079a4e3cb2df"
+      },
+      "id": "ababd98d-e491-4165-8ce0-5ee031673f23",
+      "timestamp": 1645916811376,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "26956144-e37b-4ecd-a29d-c42894f18ac8"
+      },
+      "id": "61601f25-b078-4e47-86fa-de1bc97ca949",
+      "timestamp": 1645916812007,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "ad78481f-57ca-45a6-8a2c-435bb98dacc0"
+      },
+      "id": "492d45ce-c2d0-4fd6-a6e5-3193222ef80b",
+      "timestamp": 1645916813345,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "f86d0fd3-ab70-4851-904b-0bab53a65229",
+      "timestamp": 1645916815171,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "aec69539-bc3a-4aa9-a416-9d85173eabaa",
+      "timestamp": 1645916816900,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "07a523dd-06ca-4ba1-8daf-e1dbcad93a81",
+      "timestamp": 1645916900842,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5",
+          "statistics": {
+            "runs": 3
+          }
+        }
+      },
+      "id": "7e5ea5d6-ad62-4672-a00d-3c7e3d91deb1",
+      "timestamp": 1645916905154,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+        },
+        "batter": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5",
+          "statistics": {
+            "runs": 3
+          }
+        }
+      },
+      "id": "e9cdde5f-fac3-4aa3-abb8-941d414eb176",
+      "timestamp": 1645916909078,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "END_INNINGS",
+      "id": "0eedbe48-750b-4ad7-8a36-3c1e1c3e06fa",
+      "timestamp": 1645916925991,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "LINEUP",
+      "payload": {
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "fillIns": [],
+        "rosteredPlayers": [
+          {
+            "playerNumber": null,
+            "participantID": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+            "firstName": "Henry",
+            "lastName": "A"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+            "firstName": "Mark",
+            "lastName": "A"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5",
+            "firstName": "Matthew",
+            "lastName": "A"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+            "firstName": "Mitchell",
+            "lastName": "B"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "7aea0aeb-c62a-43ab-bfca-237555a65c9c",
+            "firstName": "James",
+            "lastName": "J"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "e4d4de07-6134-4c66-8a4f-99c05ae78d84",
+            "firstName": "Kaarthekan",
+            "lastName": "K"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "179494cf-4092-419a-9291-2c38e42ae7a3",
+            "firstName": "Hunter",
+            "lastName": "M"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "47d08f5c-6d59-4ffb-9259-207ae8904df0",
+            "firstName": "Frankie",
+            "lastName": "T"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "4608e620-f613-44ad-abf7-6238bee2672f",
+            "firstName": "Ari",
+            "lastName": "V"
+          }
+        ],
+        "side": "HOME"
+      },
+      "id": "48e7d5d9-7eba-4018-8a1d-a14edcf1a125",
+      "timestamp": 1645917321743,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "LINEUP",
+      "payload": {
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "fillIns": [],
+        "rosteredPlayers": [
+          {
+            "playerNumber": null,
+            "participantID": "6e234949-9936-473d-a24f-92dbd5614359",
+            "firstName": "H",
+            "lastName": "Addison"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "e666911a-d44a-4847-8359-1a5020039465",
+            "firstName": "J",
+            "lastName": "Bakker"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+            "firstName": "A",
+            "lastName": "Billing"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "260502f5-6d34-4314-bc3e-42a633212e32",
+            "firstName": "M",
+            "lastName": "Billing"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+            "firstName": "E",
+            "lastName": "Borham"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "f7e88bd7-96e3-433c-8aae-00cce3db89cc",
+            "firstName": "H",
+            "lastName": "McGunnigle"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+            "firstName": "E",
+            "lastName": "Nilaweera"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "95ca24c2-afe3-46fc-859a-3669490283ab",
+            "firstName": "L",
+            "lastName": "Simcock"
+          },
+          {
+            "playerNumber": null,
+            "participantID": "62326f65-a82a-430c-b725-2aed1ac1adf1",
+            "firstName": "H",
+            "lastName": "Strempel"
+          }
+        ],
+        "side": "AWAY"
+      },
+      "id": "a1af7397-0cd9-412f-a7ba-a2291e916dfd",
+      "timestamp": 1645917321743,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_START",
+      "payload": {
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "playerID": "e666911a-d44a-4847-8359-1a5020039465"
+      },
+      "id": "4caadac0-126c-4b1a-8411-4a455f96979a",
+      "timestamp": 1645917321743,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_START",
+      "payload": {
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "playerID": "d8cdc042-0d87-4b78-a1c2-35a25b72add2"
+      },
+      "id": "33b87d28-b709-445c-8f91-e2936413d052",
+      "timestamp": 1645917321743,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "side": "HOME",
+        "playerID": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+      },
+      "id": "7c7ae177-f8c1-43df-b13b-63434b998a4e",
+      "timestamp": 1645917321743,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "START_INNINGS",
+      "payload": {
+        "isSuperOver": false
+      },
+      "id": "34b440f2-139a-4d5d-948d-9cf22966ced4",
+      "timestamp": 1645917321743,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "1da14225-6e50-420b-94aa-fcdb79ba5dd6",
+      "timestamp": 1645917344669,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "1624f7e9-45f2-48bd-97a0-1e6e5db3061a",
+      "timestamp": 1645917357289,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "3b18bf53-e0ec-4be9-aeed-1d737939731a",
+      "timestamp": 1645917377351,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "066976b3-96f2-4248-b6b6-763e0fc9c879",
+      "timestamp": 1645917396174,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "13245d60-3e77-4fc7-98a6-904fc14f364f",
+      "timestamp": 1645917412543,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "49932f41-79b5-42c9-be02-b44ff3342da6",
+      "timestamp": 1645917437776,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "4608e620-f613-44ad-abf7-6238bee2672f",
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "side": "HOME"
+      },
+      "id": "5baf934d-44a9-4ba7-8534-784f4cc1043c",
+      "timestamp": 1645917476784,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "49932f41-79b5-42c9-be02-b44ff3342da6"
+      },
+      "id": "5c3df3df-f61b-464e-8985-fb502ffd2736",
+      "timestamp": 1645917482405,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "5baf934d-44a9-4ba7-8534-784f4cc1043c"
+      },
+      "id": "6b4a846b-abc0-44c3-9469-d53af6a1fc94",
+      "timestamp": 1645917482406,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "5030a7a6-3819-453f-8939-64e9ca9764cb",
+      "timestamp": 1645917487605,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "e4d4de07-6134-4c66-8a4f-99c05ae78d84",
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "side": "HOME"
+      },
+      "id": "37939294-44bc-4473-8b91-d840af726f0f",
+      "timestamp": 1645917491934,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84"
+        },
+        "batter": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "925d19e6-fa1c-4943-a88f-e31b83f3e24e",
+      "timestamp": 1645917494207,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "a44befd8-7706-46bb-8a0e-93bc52b14ebd",
+      "timestamp": 1645917520172,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "BYES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "8e5c4a7c-fbec-4b15-9eff-969da6ed22be",
+      "timestamp": 1645917542262,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84"
+        },
+        "batter": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+          "statistics": {
+            "runs": 1
+          }
+        },
+        "extras": [
+          {
+            "type": "NO_BALLS",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "97184ed8-5e79-4490-a540-90f8ee09b1f1",
+      "timestamp": 1645917561048,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "301849f0-478f-417e-958c-665621b55074",
+      "timestamp": 1645917578051,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "9ab0ba92-a47f-4a36-a622-92a4a671ec9d",
+      "timestamp": 1645917590973,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "4608e620-f613-44ad-abf7-6238bee2672f",
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "side": "HOME"
+      },
+      "id": "bae7c9e6-161d-40d4-a798-385c71e9879e",
+      "timestamp": 1645917594615,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "4608e620-f613-44ad-abf7-6238bee2672f"
+        },
+        "batter": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "4fecda37-a89d-46c1-9746-5cd8197a5461",
+      "timestamp": 1645917618567,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "4608e620-f613-44ad-abf7-6238bee2672f"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "96a09cfd-86f7-441a-94de-a18045712ed6",
+      "timestamp": 1645917648617,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "4608e620-f613-44ad-abf7-6238bee2672f"
+        },
+        "batter": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "5481f7d3-dcf6-417a-833b-0e1b5f82544e",
+      "timestamp": 1645917678505,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "4608e620-f613-44ad-abf7-6238bee2672f"
+        },
+        "batter": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "2cb538c8-0511-44cd-a18e-bc619cd2d09f",
+      "timestamp": 1645917698051,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "4608e620-f613-44ad-abf7-6238bee2672f"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "6b6654d6-2419-4664-8b6b-5a2c1fd87e83",
+      "timestamp": 1645917718517,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "4608e620-f613-44ad-abf7-6238bee2672f"
+        },
+        "batter": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "BYES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "d7882119-00ad-45c3-9540-43985d0902cd",
+      "timestamp": 1645917746659,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "side": "HOME"
+      },
+      "id": "dc9fa285-f985-4734-8f1a-75d4c09cb9a0",
+      "timestamp": 1645917753888,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "991b4466-e40e-4214-8574-2e6bfca33957",
+      "timestamp": 1645917780760,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "910b9652-b5fb-4851-9621-a4f8532c8faf",
+      "timestamp": 1645917805266,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "f6d075ec-631a-4501-bce4-42c82b0fbc57",
+      "timestamp": 1645917834658,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "fa6c5aa2-48a3-4812-9c30-3083ea49d794",
+      "timestamp": 1645917856401,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+          "statistics": {
+            "runs": 4
+          }
+        }
+      },
+      "id": "0512656f-c010-4551-9236-25079e6d31ac",
+      "timestamp": 1645917881052,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "64fe5bd9-779a-4df9-9ac4-b398ad38ead7",
+      "timestamp": 1645917933004,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "47d08f5c-6d59-4ffb-9259-207ae8904df0",
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "side": "HOME"
+      },
+      "id": "63233c49-eeff-4423-9b88-488b9ab2cff2",
+      "timestamp": 1645917954439,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 1
+          }
+        },
+        "extras": [
+          {
+            "type": "NO_BALLS",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "40099b97-d0db-4551-9582-7358f57be074",
+      "timestamp": 1645918001425,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0"
+        },
+        "batter": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "WIDES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "aaca43cd-5ef6-4cf5-9e41-55e2a280c1d7",
+      "timestamp": 1645918012673,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0"
+        },
+        "batter": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "f845dd3f-5945-4dd5-8220-4235c0ecb3d5",
+      "timestamp": 1645918081114,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "b8184f2e-66a3-46f6-9e50-fa3e954dc0c2",
+      "timestamp": 1645918099602,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "ed28f077-f0f5-4996-b494-e621da3dc3aa",
+      "timestamp": 1645918115367,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0"
+        },
+        "batter": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "10b051a7-9df9-4817-bdd2-1763e6f97bcc",
+      "timestamp": 1645918168544,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5",
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "side": "HOME"
+      },
+      "id": "93505b84-b58c-45d8-9c80-c2e9011fff7d",
+      "timestamp": 1645918179037,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "7a4f6e7e-5906-40c8-89d7-23a258ac5278",
+      "timestamp": 1645918202302,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "2559236b-9173-42a6-90fb-624d3704ad48",
+      "timestamp": 1645918207655,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "RETIRED",
+      "payload": {
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "playerID": "e666911a-d44a-4847-8359-1a5020039465",
+        "isOut": false
+      },
+      "id": "ce6f0d85-6cdb-42f7-bab0-fb7e10a1403f",
+      "timestamp": 1645918354480,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_START",
+      "payload": {
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "playerID": "eaedea79-551d-417b-9c8d-a2d502d03be1"
+      },
+      "id": "7df8b9d6-fa4f-4c1f-8baa-9251023214d9",
+      "timestamp": 1645918354480,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5"
+        },
+        "batter": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "d0c72585-4b04-4aa6-aa09-084561d59c89",
+      "timestamp": 1645918379172,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5"
+        },
+        "batter": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "4a2cb29f-d592-4afb-a4fb-895c13fc0f22",
+      "timestamp": 1645918385323,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5"
+        },
+        "batter": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "2d547d0d-9d6a-4729-902b-e1e025da47cb",
+      "timestamp": 1645918398928,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5"
+        },
+        "batter": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "10e1ae56-4ef3-4ab5-ab2b-bfbc51b45e5a",
+      "timestamp": 1645918414328,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "179494cf-4092-419a-9291-2c38e42ae7a3",
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "side": "HOME"
+      },
+      "id": "ab5a600d-3595-4f0f-93ff-84aaeeaf347e",
+      "timestamp": 1645918474900,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3"
+        },
+        "batter": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "WIDES",
+            "runs": 4
+          }
+        ]
+      },
+      "id": "6205c3a7-7689-4eeb-91df-0ad768690740",
+      "timestamp": 1645918487793,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3"
+        },
+        "batter": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "e5a61975-aba1-44e6-bb6d-f787b8e99a51",
+      "timestamp": 1645918604026,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3"
+        },
+        "batter": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "3ce989c8-43ac-4fd5-93ef-4f9ea2813996",
+      "timestamp": 1645918604677,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3"
+        },
+        "batter": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "dc43ad7d-8751-4295-83e9-b8fd77e437a7",
+      "timestamp": 1645918605559,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3"
+        },
+        "batter": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "0c17838a-3208-425e-8d43-3970b67b4122",
+      "timestamp": 1645918609385,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3"
+        },
+        "batter": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "701758b1-b4c4-44da-b899-fde2a8ce783e",
+      "timestamp": 1645918628196,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "side": "HOME"
+      },
+      "id": "85215f1a-0330-479d-a938-355c52baf63b",
+      "timestamp": 1645918647650,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "989e1612-1c60-4115-a0f8-35729fb319e0",
+      "timestamp": 1645918654743,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "82dc944a-3167-4159-b591-0660d4a4b480",
+      "timestamp": 1645918696667,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "ec3ddeac-6ff7-4c96-96c3-38f75d11d192",
+      "timestamp": 1645918698971,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "WIDES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "5471151b-c98a-4057-a866-a3dcbf46f39e",
+      "timestamp": 1645918726213,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "WIDES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "3e28c532-eaa0-4d71-a812-2a75bfcf15b2",
+      "timestamp": 1645918733544,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "a8e826b2-9a78-4214-95d5-69caa006c3d5",
+      "timestamp": 1645918798987,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "a8e826b2-9a78-4214-95d5-69caa006c3d5"
+      },
+      "id": "2b100327-1e78-4313-a486-406722d02443",
+      "timestamp": 1645918809709,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "3e28c532-eaa0-4d71-a812-2a75bfcf15b2"
+      },
+      "id": "e07af9d6-ac00-4d6e-8b75-c81139461d41",
+      "timestamp": 1645918853489,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "5471151b-c98a-4057-a866-a3dcbf46f39e"
+      },
+      "id": "5edcd7de-3ba8-469c-8b58-058e762ccb35",
+      "timestamp": 1645918853823,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "ec3ddeac-6ff7-4c96-96c3-38f75d11d192"
+      },
+      "id": "6ccc4327-5665-4154-b5d0-82c7f278c845",
+      "timestamp": 1645918855386,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "315a922f-33e8-40d3-a0d0-a4237210e083",
+      "timestamp": 1645918856917,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "b91b2585-baaa-4409-8313-cee4989ec698",
+      "timestamp": 1645918858522,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "WIDES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "a0a00c4c-87cc-4f8c-82be-59715c324e1c",
+      "timestamp": 1645918868327,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "2396412f-766b-4d88-b6d7-3fd44b04a97e",
+      "timestamp": 1645918918858,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "47d08f5c-6d59-4ffb-9259-207ae8904df0",
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "side": "HOME"
+      },
+      "id": "40215fec-6c5a-4b0f-b7ca-cd7e3e431427",
+      "timestamp": 1645918935341,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0"
+        },
+        "batter": {
+          "id": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "36c64f28-d641-4640-98d2-439032b59ca8",
+      "timestamp": 1645918947891,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0"
+        },
+        "batter": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "6862350c-ed98-4d35-8460-a73d7049f7c0",
+      "timestamp": 1645918953029,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "6862350c-ed98-4d35-8460-a73d7049f7c0"
+      },
+      "id": "3f304e5f-87f3-44d7-a8ad-b52519f43aee",
+      "timestamp": 1645918955558,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0"
+        },
+        "batter": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "901c0df7-6395-4349-8092-9e5a37f754d9",
+      "timestamp": 1645918963799,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0"
+        },
+        "batter": {
+          "id": "eaedea79-551d-417b-9c8d-a2d502d03be1",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "wicket": {
+          "type": "RUN_OUT",
+          "batter": {
+            "id": "eaedea79-551d-417b-9c8d-a2d502d03be1"
+          },
+          "fielder": {
+            "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c"
+          },
+          "crossed": ""
+        }
+      },
+      "id": "ea1b91c7-4011-4618-8a15-4c67a7984773",
+      "timestamp": 1645919000856,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_START",
+      "payload": {
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "playerID": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+      },
+      "id": "2f990972-91f9-4c3e-9570-74b9d7be6e58",
+      "timestamp": 1645919030167,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0"
+        },
+        "batter": {
+          "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "wicket": {
+          "type": "CAUGHT",
+          "batter": {
+            "id": "f7e88bd7-96e3-433c-8aae-00cce3db89cc"
+          },
+          "fielder": {
+            "id": "523c2e27-46ab-4db8-a0cd-fe935c4ff4f5"
+          },
+          "crossed": ""
+        }
+      },
+      "id": "f75faf9d-0741-4887-a28f-b320e05bd542",
+      "timestamp": 1645919053083,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_START",
+      "payload": {
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "playerID": "95ca24c2-afe3-46fc-859a-3669490283ab"
+      },
+      "id": "aa2b305e-1afb-44e5-8fb5-31960209981c",
+      "timestamp": 1645919113689,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0"
+        },
+        "batter": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "92d4fe89-c630-4b01-8ad2-c93120ba776f",
+      "timestamp": 1645919148657,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "47d08f5c-6d59-4ffb-9259-207ae8904df0"
+        },
+        "batter": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "85f5a1ce-4834-4c58-9d07-abf7a537599a",
+      "timestamp": 1645919163140,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "4608e620-f613-44ad-abf7-6238bee2672f",
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "side": "HOME"
+      },
+      "id": "c5bc7996-6ff8-4009-ba47-dccd1792e698",
+      "timestamp": 1645919209540,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "RETIRED",
+      "payload": {
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "playerID": "d8cdc042-0d87-4b78-a1c2-35a25b72add2",
+        "isOut": false
+      },
+      "id": "8bc46bfd-7601-43f5-9a57-b2a2177adf8d",
+      "timestamp": 1645919296575,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_START",
+      "payload": {
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "playerID": "6e234949-9936-473d-a24f-92dbd5614359"
+      },
+      "id": "7d71be34-2383-41e0-8919-5e65cb22fd64",
+      "timestamp": 1645919296575,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "4608e620-f613-44ad-abf7-6238bee2672f"
+        },
+        "batter": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "BYES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "b4710d26-b079-4a05-8843-b75f7c8b17ce",
+      "timestamp": 1645919353734,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "4608e620-f613-44ad-abf7-6238bee2672f"
+        },
+        "batter": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "91f68398-5f79-4cb0-9412-0f8a192cb31b",
+      "timestamp": 1645919366388,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "4608e620-f613-44ad-abf7-6238bee2672f"
+        },
+        "batter": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "0acff048-5eb4-4163-a7fb-fbe3980988ff",
+      "timestamp": 1645919437569,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "4608e620-f613-44ad-abf7-6238bee2672f"
+        },
+        "batter": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "9626d668-645e-4de6-840b-21e5e8009185",
+      "timestamp": 1645919485390,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "4608e620-f613-44ad-abf7-6238bee2672f"
+        },
+        "batter": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "3cef7616-42a2-41c8-b1a5-361b106ac3c8",
+      "timestamp": 1645919500894,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "4608e620-f613-44ad-abf7-6238bee2672f"
+        },
+        "batter": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "26035f31-4546-44a0-86f6-21a08dc6f6af",
+      "timestamp": 1645919536063,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd",
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "side": "HOME"
+      },
+      "id": "bb68064d-52ac-4d4b-bc36-ea246230711d",
+      "timestamp": 1645919541707,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd"
+        },
+        "batter": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "e64da163-1e87-4083-9960-ff36fb2122f3",
+      "timestamp": 1645919579518,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd"
+        },
+        "batter": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "NO_BALLS",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "507dd3f5-bee3-4bdf-aa06-1a96aafd12e8",
+      "timestamp": 1645919619938,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd"
+        },
+        "batter": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "be53a675-dc4a-4486-97a7-454303cf30d5",
+      "timestamp": 1645919634490,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd"
+        },
+        "batter": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "77884db5-02fe-40e7-b9a9-6606b77b0e70",
+      "timestamp": 1645919669455,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd"
+        },
+        "batter": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "7d2abd4f-897f-4c90-b72b-653fb0c47ba5",
+      "timestamp": 1645919684040,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd"
+        },
+        "batter": {
+          "id": "6e234949-9936-473d-a24f-92dbd5614359",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "wicket": {
+          "type": "RUN_OUT",
+          "batter": {
+            "id": "6e234949-9936-473d-a24f-92dbd5614359"
+          },
+          "fielder": {
+            "id": "c8e6eba6-695b-4899-8f27-c8e7c9ac94cd"
+          },
+          "crossed": true
+        }
+      },
+      "id": "c29fd504-1a88-421d-84a9-515c8e0e3e5b",
+      "timestamp": 1645919709891,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "179494cf-4092-419a-9291-2c38e42ae7a3",
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "side": "HOME"
+      },
+      "id": "399ed3ed-4a1a-4cb9-ab96-a9aae8827ffd",
+      "timestamp": 1645919715086,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_START",
+      "payload": {
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "playerID": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8"
+      },
+      "id": "53eec9cc-50b1-441e-8918-fd02798aaa67",
+      "timestamp": 1645919718820,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "7c09fa69-cb16-4df6-8862-bbd89050e80d",
+      "timestamp": 1645919765519,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3"
+        },
+        "batter": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "def71a20-f86b-4721-a219-9343c3c22249",
+      "timestamp": 1645919813188,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "aea72107-8071-4d92-900b-ac1a461c9ebe",
+      "timestamp": 1645919832806,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "0a874432-dac6-41e1-ad94-a8ce9ea46d22",
+      "timestamp": 1645919854041,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3"
+        },
+        "batter": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "fbee62d5-555f-4d7d-92f5-174f8d2f71d9",
+      "timestamp": 1645919884579,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3"
+        },
+        "batter": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "c7fbc0bf-7d4b-4354-8be4-3b85e2905864",
+      "timestamp": 1645919916032,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "c7fbc0bf-7d4b-4354-8be4-3b85e2905864"
+      },
+      "id": "8105eede-801e-4fbb-a120-982e232b7bdb",
+      "timestamp": 1645919934121,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "fbee62d5-555f-4d7d-92f5-174f8d2f71d9"
+      },
+      "id": "e0145337-2b26-4bc5-b3e9-d2092d79d31d",
+      "timestamp": 1645919938798,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "RETIRED",
+      "payload": {
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "playerID": "95ca24c2-afe3-46fc-859a-3669490283ab",
+        "isOut": false
+      },
+      "id": "67ebf73c-2c53-4880-a406-93e7f2cdae19",
+      "timestamp": 1645919946678,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_START",
+      "payload": {
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "playerID": "e666911a-d44a-4847-8359-1a5020039465"
+      },
+      "id": "8bc80ef0-ab49-4968-9cb8-891540d11614",
+      "timestamp": 1645919946678,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "9e8f7328-3814-47fa-b35c-3bf7b3b6727a",
+      "timestamp": 1645919968812,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "179494cf-4092-419a-9291-2c38e42ae7a3"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "88350674-92dc-48aa-8026-0c43b6ba0d88",
+      "timestamp": 1645919983678,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "side": "HOME"
+      },
+      "id": "dd138015-15dc-4847-a4df-e00ef7ba1ca3",
+      "timestamp": 1645919997716,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "b3a14cc8-ee6e-47d8-823e-28593695fec4",
+      "timestamp": 1645920004966,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "8b295952-7f64-4212-9aea-1fa845bc7053",
+      "timestamp": 1645920010453,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "9bd70fa0-93da-4b57-9a47-7c6e5d79f02b",
+      "timestamp": 1645920017172,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 4
+          }
+        }
+      },
+      "id": "8ab4a116-1ad3-4505-b66f-c0fe7a0fd372",
+      "timestamp": 1645920024730,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 4
+          }
+        }
+      },
+      "id": "8663c101-9595-46fa-a224-1c89dcd0b4fe",
+      "timestamp": 1645920027097,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 4
+          }
+        }
+      },
+      "id": "715ea3e8-d50d-465b-812a-2878ad2badd7",
+      "timestamp": 1645920028020,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "715ea3e8-d50d-465b-812a-2878ad2badd7"
+      },
+      "id": "0eaaf0f4-c825-4134-a9fb-7d0bb6d1ee57",
+      "timestamp": 1645920033700,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "8663c101-9595-46fa-a224-1c89dcd0b4fe"
+      },
+      "id": "e93e7df0-64fc-46ca-8b6e-cff36b35daec",
+      "timestamp": 1645920035438,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "8ab4a116-1ad3-4505-b66f-c0fe7a0fd372"
+      },
+      "id": "f89461da-d7f1-47f8-be14-a36b4d2f2115",
+      "timestamp": 1645920036188,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "7e80c22f-9513-4d03-9b3d-a26f5b91644a",
+      "timestamp": 1645920040873,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "REMOVE",
+      "payload": {
+        "eventID": "7e80c22f-9513-4d03-9b3d-a26f5b91644a"
+      },
+      "id": "79a85f4f-da3e-46e8-95d9-eac855acd67c",
+      "timestamp": 1645920043375,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 3
+          }
+        }
+      },
+      "id": "7ab95132-0815-4930-bb2b-580f1c11023e",
+      "timestamp": 1645920044588,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "229dc1c6-c1c3-4546-a04b-65b22b807aba",
+      "timestamp": 1645920045609,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "fb17f714-618e-42be-b820-6d23c82ec024",
+      "timestamp": 1645920116700,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "7aea0aeb-c62a-43ab-bfca-237555a65c9c",
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "side": "HOME"
+      },
+      "id": "ec49ad40-9a8e-4043-b16d-a7a5f86e3101",
+      "timestamp": 1645920156931,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "NO_BALLS",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "7febd12a-d5da-451e-a50a-497a6ed577be",
+      "timestamp": 1645920239099,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "NO_BALLS",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "90cd9de4-4f57-46cf-9469-8cf21ed9b3a0",
+      "timestamp": 1645920260529,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "605ab96f-6aa7-4f2a-bb48-675f169f4dcb",
+      "timestamp": 1645920290363,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "55e51875-a84c-469d-911c-53a3e86ed0ec",
+      "timestamp": 1645920316565,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 4
+          }
+        }
+      },
+      "id": "f10933ec-ddf2-4425-9b0d-ed1d1ec19212",
+      "timestamp": 1645920506321,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "BYES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "f274627e-b110-4b83-b6e1-2158b7143249",
+      "timestamp": 1645920511448,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "e4d4de07-6134-4c66-8a4f-99c05ae78d84",
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "side": "HOME"
+      },
+      "id": "c7f4f7a4-05b1-40b5-b16f-967f0243f654",
+      "timestamp": 1645920515744,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "41431c7a-9400-4a9a-9539-bffac141d02a",
+      "timestamp": 1645920517913,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 3
+          }
+        }
+      },
+      "id": "c3ea83e2-0134-4bbd-b952-502d8bffece7",
+      "timestamp": 1645920520581,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "bbacd0ee-40cc-464b-8470-77cb3370c30f",
+      "timestamp": 1645920546525,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "BYES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "0d8106de-7e64-40be-a797-207e1423065a",
+      "timestamp": 1645920568990,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 4
+          }
+        }
+      },
+      "id": "d60f306f-ddcd-4c6d-80ae-cdc999401c7a",
+      "timestamp": 1645920575115,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "4ab5cda4-871c-4e35-b27d-9096722d3958",
+      "timestamp": 1645920580757,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "7aea0aeb-c62a-43ab-bfca-237555a65c9c",
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "side": "HOME"
+      },
+      "id": "0df9580c-4010-48b2-9b11-0b53d4b3f89a",
+      "timestamp": 1645920585293,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 4
+          }
+        }
+      },
+      "id": "14f5ed4e-20ac-4b75-affa-225f1216c9fc",
+      "timestamp": 1645920607937,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "BYES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "275c1e9c-0e6f-454a-bbe0-cd7dd9812c33",
+      "timestamp": 1645920633519,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "6a70e7f7-c56c-4cd4-864c-12b2862d957c",
+      "timestamp": 1645920643331,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "7aee9754-6968-49eb-bdc3-6f06bdf8e307",
+      "timestamp": 1645920644580,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 4
+          }
+        }
+      },
+      "id": "6c875176-d6fb-43de-ab55-b970edc54aab",
+      "timestamp": 1645920646655,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "e5cac744-70eb-48a0-bf91-e7a1914be56a",
+      "timestamp": 1645920648994,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef",
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "side": "HOME"
+      },
+      "id": "8502993b-63ed-405e-9599-e802eaa142b9",
+      "timestamp": 1645920655970,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 4
+          }
+        }
+      },
+      "id": "bbfe40c7-bfa8-4088-93d6-a58de4bbd768",
+      "timestamp": 1645920659341,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 4
+          }
+        }
+      },
+      "id": "c070a879-a46e-4b79-bb97-f845ff81274f",
+      "timestamp": 1645920660788,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "73d601bb-6b15-4ab4-94b2-4a9607918cd7",
+      "timestamp": 1645920662370,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 2
+          }
+        }
+      },
+      "id": "086a1220-35e3-43e5-925e-2a20c5d3eb40",
+      "timestamp": 1645920663511,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "e666911a-d44a-4847-8359-1a5020039465",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "wicket": {
+          "type": "CAUGHT",
+          "batter": {
+            "id": "e666911a-d44a-4847-8359-1a5020039465"
+          },
+          "fielder": {
+            "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+          },
+          "crossed": true
+        }
+      },
+      "id": "66098afd-a835-4c32-b1f9-2e46cbfbc80f",
+      "timestamp": 1645920671246,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BATTER_START",
+      "payload": {
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "playerID": "95ca24c2-afe3-46fc-859a-3669490283ab"
+      },
+      "id": "4055f9fc-e29e-489b-934f-b601014b4520",
+      "timestamp": 1645920671246,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "91da8ef3-b1ae-4b9d-bed5-aca0178e71ef"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "LEG_BYES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "66ce6bb9-9f53-44ae-b0ab-ccbe91aa002f",
+      "timestamp": 1645920675284,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "7aea0aeb-c62a-43ab-bfca-237555a65c9c",
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "side": "HOME"
+      },
+      "id": "18fe558b-a011-495d-bc29-79310156f77f",
+      "timestamp": 1645920679710,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 3
+          }
+        }
+      },
+      "id": "c67242c7-0b3f-4795-aeb4-a9d536896c4a",
+      "timestamp": 1645920681687,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c"
+        },
+        "batter": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab",
+          "statistics": {
+            "runs": 3
+          }
+        }
+      },
+      "id": "063b1185-137c-45dd-b697-558d12cba7b0",
+      "timestamp": 1645920683887,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "NO_BALLS",
+            "runs": 1
+          },
+          {
+            "type": "BYES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "8315505a-56ab-43a2-866b-ade44d4e869c",
+      "timestamp": 1645920691150,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c"
+        },
+        "batter": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "NO_BALLS",
+            "runs": 1
+          },
+          {
+            "type": "BYES",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "e789e88e-0c1f-445b-bf4f-295d680fa96b",
+      "timestamp": 1645920701429,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "579eb313-94d0-4e7e-9970-1d1dfae0c2c4",
+      "timestamp": 1645920703481,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "7aea0aeb-c62a-43ab-bfca-237555a65c9c"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "d251b6fc-bf07-4d54-b731-5412eef5b92c",
+      "timestamp": 1645920704319,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "39c1e1f3-e06e-4393-a5a3-7842c05415a0",
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "side": "HOME"
+      },
+      "id": "c073b886-4c5a-4487-98df-842154349566",
+      "timestamp": 1645920708866,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "638de013-421c-4e6f-9421-285b7a607727",
+      "timestamp": 1645920711712,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab",
+          "statistics": {
+            "runs": 4
+          }
+        }
+      },
+      "id": "b6e604fe-8a33-4ac8-9bea-79401502c003",
+      "timestamp": 1645920842018,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "66165f50-9d62-4ce4-b76c-e4fa79aaf37d",
+      "timestamp": 1645920889071,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "4b315589-26ae-4c1b-8a7e-be67238ca6d6",
+      "timestamp": 1645920910114,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab",
+          "statistics": {
+            "runs": 0
+          }
+        },
+        "extras": [
+          {
+            "type": "NO_BALLS",
+            "runs": 1
+          }
+        ]
+      },
+      "id": "8a49efc9-f311-4762-b841-2ac0284cce66",
+      "timestamp": 1645920943405,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "39c1e1f3-e06e-4393-a5a3-7842c05415a0"
+        },
+        "batter": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "b6bd5bc8-d5d1-4560-94d4-b30ca2b3ff72",
+      "timestamp": 1645920946450,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BOWLER_START",
+      "payload": {
+        "playerID": "e4d4de07-6134-4c66-8a4f-99c05ae78d84",
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "side": "HOME"
+      },
+      "id": "df9c48f0-7521-4d92-add2-a5d9fce06883",
+      "timestamp": 1645920951124,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "ac6b4d05-ffc6-4c1b-b54c-5230f2ea8b1a",
+      "timestamp": 1645920996868,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "3f5c7a07-2b65-4e83-b03b-7cf2f6a45486",
+      "timestamp": 1645921016441,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84"
+        },
+        "batter": {
+          "id": "cdcc36da-caf4-4b8c-ac41-8734a2f8f1f8",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "ea52eff7-6fb6-42eb-ba2e-75d3fa134038",
+      "timestamp": 1645921048743,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84"
+        },
+        "batter": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "eb71fc7e-ee43-4d33-a05b-9ca2b2f62e7e",
+      "timestamp": 1645921113267,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84"
+        },
+        "batter": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab",
+          "statistics": {
+            "runs": 0
+          }
+        }
+      },
+      "id": "80a62e98-ba99-4662-81c8-02c3dd35ee25",
+      "timestamp": 1645921115688,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "BALL",
+      "payload": {
+        "bowler": {
+          "id": "e4d4de07-6134-4c66-8a4f-99c05ae78d84"
+        },
+        "batter": {
+          "id": "95ca24c2-afe3-46fc-859a-3669490283ab",
+          "statistics": {
+            "runs": 1
+          }
+        }
+      },
+      "id": "4bdf5492-86aa-46e9-a0cd-b0e7f6240b25",
+      "timestamp": 1645921128746,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "END_INNINGS",
+      "id": "eb172127-3f65-442f-aa0e-71cc49267613",
+      "timestamp": 1645921171297,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "COACH_LINEUP",
+      "payload": {
+        "teamID": "fed86e91-4847-446e-a1e2-ef4999f72395",
+        "fillIns": [],
+        "rosteredCoaches": [],
+        "side": "HOME"
+      },
+      "id": "8cd83f8d-6522-4066-b045-801a12074470",
+      "timestamp": 1645921172642,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "COACH_LINEUP",
+      "payload": {
+        "teamID": "c358cc13-2157-49f0-b080-37f36b486b32",
+        "fillIns": [],
+        "rosteredCoaches": [],
+        "side": "AWAY"
+      },
+      "id": "9d159250-7aec-43e7-a544-731f3e6acee9",
+      "timestamp": 1645921172642,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    },
+    {
+      "type": "FINALISE",
+      "id": "f53617aa-d806-4c66-a922-7893820773a2",
+      "timestamp": 1645921173252,
+      "sync": {
+        "status": "NOT_SYNCED",
+        "syncAttempts": 0
+      }
+    }
+  ]
+}

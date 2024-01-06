@@ -1,0 +1,258 @@
+[
+    {
+        "id": "e9e1cd65-79ac-4533-8594-e37ed7956959",
+        "name": "Summer 2021/22",
+        "status": "ACTIVE",
+        "association": {
+            "id": "fe6cc3fb-f086-4c99-8112-aee4d42cc8ad",
+            "name": "CATestLive_20230713165_bhqf_Association",
+            "type": null,
+            "logoName": null,
+            "nickname": null
+        },
+        "competition": {
+            "id": "432cd849-767c-4ba3-9899-a93f9ce1b716",
+            "name": "Competition1 (CATestLive_20230713165_bhqf_Association)"
+        }
+    },
+    {
+        "id": "55668031-b997-4bd4-bffe-eef215bb2ef1",
+        "name": "Winter 2022",
+        "status": "ACTIVE",
+        "association": {
+            "id": "fe6cc3fb-f086-4c99-8112-aee4d42cc8ad",
+            "name": "CATestLive_20230713165_bhqf_Association",
+            "type": null,
+            "logoName": null,
+            "nickname": null
+        },
+        "competition": {
+            "id": "432cd849-767c-4ba3-9899-a93f9ce1b716",
+            "name": "Competition1 (CATestLive_20230713165_bhqf_Association)"
+        }
+    },
+    {
+        "id": "9ee8e678-1921-4ca8-9bc4-4f635914eb8e",
+        "name": "Summer 2021/22",
+        "status": "ACTIVE",
+        "association": {
+            "id": "a3be04dc-837c-4b4d-bbed-70083773bfdf",
+            "name": "CATestLive_20230713149_q2s6i_Association",
+            "type": null,
+            "logoName": null,
+            "nickname": null
+        },
+        "competition": {
+            "id": "4178c27b-c533-4a4a-b943-5b347b413555",
+            "name": "Competition1 (CATestLive_20230713149_q2s6i_Association)"
+        }
+    },
+    {
+        "id": "30970a1a-aab6-4e5c-9e49-3a8fb08aa754",
+        "name": "Winter 2022",
+        "status": "ACTIVE",
+        "association": {
+            "id": "a3be04dc-837c-4b4d-bbed-70083773bfdf",
+            "name": "CATestLive_20230713149_q2s6i_Association",
+            "type": null,
+            "logoName": null,
+            "nickname": null
+        },
+        "competition": {
+            "id": "4178c27b-c533-4a4a-b943-5b347b413555",
+            "name": "Competition1 (CATestLive_20230713149_q2s6i_Association)"
+        }
+    },
+    {
+        "id": "936b9ea6-00dd-4ee9-ad6e-2f7037921668",
+        "name": "Summer 2021/22",
+        "status": "ACTIVE",
+        "association": {
+            "id": "4f749c8a-82a5-4854-ab9c-ad964b113e21",
+            "name": "CATestLive_20230713130_tzvwj_Association",
+            "type": null,
+            "logoName": null,
+            "nickname": null
+        },
+        "competition": {
+            "id": "cc418424-e198-471a-8fa7-904bf7bfd410",
+            "name": "Competition1 (CATestLive_20230713130_tzvwj_Association)"
+        }
+    },
+    {
+        "id": "d391f06f-43ba-4675-b143-21e26cdf97d6",
+        "name": "Winter 2022",
+        "status": "ACTIVE",
+        "association": {
+            "id": "4f749c8a-82a5-4854-ab9c-ad964b113e21",
+            "name": "CATestLive_20230713130_tzvwj_Association",
+            "type": null,
+            "logoName": null,
+            "nickname": null
+        },
+        "competition": {
+            "id": "cc418424-e198-471a-8fa7-904bf7bfd410",
+            "name": "Competition1 (CATestLive_20230713130_tzvwj_Association)"
+        }
+    },
+    {
+        "id": "a222dcdc-aca5-4726-8481-d01625e516dd",
+        "name": "Summer 2021/22",
+        "status": "ACTIVE",
+        "association": {
+            "id": "188e4974-ec20-48c0-ad3e-499a8f96cdbf",
+            "name": "CATestLive_202307122240_civb_Association",
+            "type": null,
+            "logoName": null,
+            "nickname": null
+        },
+        "competition": {
+            "id": "4a62c9d9-2afa-4bb7-a128-22c9a2b3e347",
+            "name": "Competition1 (CATestLive_202307122240_civb_Association)"
+        }
+    },
+    {
+        "id": "0a8c250a-d93b-4ee9-85c5-d1c5d7d20cf9",
+        "name": "Winter 2022",
+        "status": "ACTIVE",
+        "association": {
+            "id": "188e4974-ec20-48c0-ad3e-499a8f96cdbf",
+            "name": "CATestLive_202307122240_civb_Association",
+            "type": null,
+            "logoName": null,
+            "nickname": null
+        },
+        "competition": {
+            "id": "4a62c9d9-2afa-4bb7-a128-22c9a2b3e347",
+            "name": "Competition1 (CATestLive_202307122240_civb_Association)"
+        }
+    },
+    {
+        "id": "e18bf567-9399-42e8-988c-cb04847220a2",
+        "name": "Summer 2021/22",
+        "status": "ACTIVE",
+        "association": {
+            "id": "de70d483-bf39-4ddd-9235-ff20dda308d7",
+            "name": "CATestLive_202307122056_cq9m_Association",
+            "type": null,
+            "logoName": null,
+            "nickname": null
+        },
+        "competition": {
+            "id": "48d5d67d-7718-4838-9a92-634a85dcfd19",
+            "name": "Competition1 (CATestLive_202307122056_cq9m_Association)"
+        }
+    },
+    {
+        "id": "56c6236d-0f20-4e92-af7a-cc82f3cf07c3",
+        "name": "Winter 2022",
+        "status": "ACTIVE",
+        "association": {
+            "id": "de70d483-bf39-4ddd-9235-ff20dda308d7",
+            "name": "CATestLive_202307122056_cq9m_Association",
+            "type": null,
+            "logoName": null,
+            "nickname": null
+        },
+        "competition": {
+            "id": "48d5d67d-7718-4838-9a92-634a85dcfd19",
+            "name": "Competition1 (CATestLive_202307122056_cq9m_Association)"
+        }
+    },
+    {
+        "id": "7bcea748-cefb-4558-81f9-5cf752bbbc9e",
+        "name": "Summer 2021/22",
+        "status": "ACTIVE",
+        "association": {
+            "id": "42ff7c6e-f438-437f-8972-25af67569bdb",
+            "name": "CATestLive_202307121852_4d6q_Association",
+            "type": null,
+            "logoName": null,
+            "nickname": null
+        },
+        "competition": {
+            "id": "476befa0-4090-400d-9628-1d494e793cd6",
+            "name": "Competition1 (CATestLive_202307121852_4d6q_Association)"
+        }
+    },
+    {
+        "id": "eac03e8d-c745-43e6-8b3f-b2cb78926a9f",
+        "name": "Winter 2022",
+        "status": "ACTIVE",
+        "association": {
+            "id": "42ff7c6e-f438-437f-8972-25af67569bdb",
+            "name": "CATestLive_202307121852_4d6q_Association",
+            "type": null,
+            "logoName": null,
+            "nickname": null
+        },
+        "competition": {
+            "id": "476befa0-4090-400d-9628-1d494e793cd6",
+            "name": "Competition1 (CATestLive_202307121852_4d6q_Association)"
+        }
+    },
+    {
+        "id": "c25f7cc3-3b45-468a-a143-d3512020bd0d",
+        "name": "Summer 2021/22",
+        "status": "ACTIVE",
+        "association": {
+            "id": "2c54dd15-9ad5-4fc4-a082-260678acca37",
+            "name": "CATestLive_202307121729_mces_Association",
+            "type": null,
+            "logoName": null,
+            "nickname": null
+        },
+        "competition": {
+            "id": "d18ae0f7-8f08-4043-a00f-d34635810aec",
+            "name": "Competition1 (CATestLive_202307121729_mces_Association)"
+        }
+    },
+    {
+        "id": "d9153c82-71f3-4f78-a31c-f7c89c41c129",
+        "name": "Winter 2022",
+        "status": "ACTIVE",
+        "association": {
+            "id": "2c54dd15-9ad5-4fc4-a082-260678acca37",
+            "name": "CATestLive_202307121729_mces_Association",
+            "type": null,
+            "logoName": null,
+            "nickname": null
+        },
+        "competition": {
+            "id": "d18ae0f7-8f08-4043-a00f-d34635810aec",
+            "name": "Competition1 (CATestLive_202307121729_mces_Association)"
+        }
+    },
+    {
+        "id": "46be5cea-c93d-4dbd-a6c1-b641d4e3245d",
+        "name": "Summer 2021/22",
+        "status": "ACTIVE",
+        "association": {
+            "id": "e59277bc-c468-4aeb-902e-6ef2efa3d0fb",
+            "name": "CATestLive_202307121542_4tpr_Association",
+            "type": null,
+            "logoName": null,
+            "nickname": null
+        },
+        "competition": {
+            "id": "7ed0d6b7-96da-474d-8585-186f5a6acdb5",
+            "name": "Competition1 (CATestLive_202307121542_4tpr_Association)"
+        }
+    },
+    {
+        "id": "0f22e83b-61b9-4b55-a8b4-7f23ffad2710",
+        "name": "Winter 2022",
+        "status": "ACTIVE",
+        "association": {
+            "id": "e59277bc-c468-4aeb-902e-6ef2efa3d0fb",
+            "name": "CATestLive_202307121542_4tpr_Association",
+            "type": null,
+            "logoName": null,
+            "nickname": null
+        },
+        "competition": {
+            "id": "7ed0d6b7-96da-474d-8585-186f5a6acdb5",
+            "name": "Competition1 (CATestLive_202307121542_4tpr_Association)"
+        }
+    }
+]

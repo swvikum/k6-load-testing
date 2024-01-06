@@ -1,0 +1,33 @@
+{
+  "name": "k6-load-testing",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "complete k6 load testing with rest api, graphql, web sockets and data generation scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "k6",
+    "load",
+    "testing",
+    "rest",
+    "api",
+    "graphql",
+    "web",
+    "sockets"
+  ],
+  "author": "vikum warnakula",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "babel-loader": "^9.1.3",
+    "core-js": "^3.35.0",
+    "graphql": "^16.5.0",
+    "k6": "^0.0.0",
+    "prettier": "2.6.2",
+    "typescript": "^5.3.3",
+    "uuid": "^3.4.0",
+    "webpack": "^5.89.0"
+  }
+}
