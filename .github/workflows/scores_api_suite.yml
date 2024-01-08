@@ -1,0 +1,75 @@
+# This is a basic workflow that is manually triggered
+
+name: Scores API Suite
+
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API.
+on:
+  workflow_dispatch:
+    # Inputs the workflow accepts.
+    inputs:
+      test_script_path:
+        # Friendly description to be shown in the UI instead of 'name'
+        description: 'Test Script Path(select one)'
+        # Default value if no value is explicitly provided
+        default: './scripts/k6/rest-api/scoresapi-match-summary/scores-match-summary-scenario-test.js'
+        # Input has to be provided for the workflow to run
+        required: true
+        # The data type of the input
+        type: choice
+        options:
+          - './scripts/k6/rest-api/scoresapi-grade-match-list/scores-grade-match-list-test.js'
+          - './scripts/k6/rest-api/scoresapi-match-summary/scores-match-summary-scenario-test.js'
+          - './scripts/k6/rest-api/scoresapi-search-matches/scores-search-matches-test.js'
+          - './scripts/k6/rest-api/scoresapi-match-balls-summary/scores-match-balls-summary-test.js'
+          - './scripts/k6/rest-api/scoresapi-bowling-top-performers/scores-bowling-top-performers-test.js'
+          - './scripts/k6/rest-api/scoresapi-team-match-list/scores-team-match-list-scenario-test.js'
+          - './scripts/k6/rest-api/scoresapi-batting-top-performers/scores-batting-top-performers-test.js'
+          - './scripts/k6/rest-api/scoresapi-match-highlights/scores-match-highlights-test.js'
+          - './scripts/k6/rest-api/scoresapi-match-officials/scores-match-officials-test.js'
+          - './scripts/k6/rest-api/scoresapi-player-match-details/scores-player-match-details-test.js'
+          - './scripts/k6/rest-api/scoresapi-player-match-performances/scores-player-match-performances-test.js'
+          - './scripts/k6/rest-api/scoresapi-rounds-list/scores-rounds-list-test.js'
+      duration:
+        # Friendly description to be shown in the UI instead of 'name'
+        description: 'Duration ex:10m,15m,5m'
+        # Default value if no value is explicitly provided
+        default: '10m,15m,5m'
+        # Input has to be provided for the workflow to run
+        required: true
+        # The data type of the input
+        type: string
+      target:
+        # Friendly description to be shown in the UI instead of 'name'
+        description: 'Target ex:150,200,0'
+        # Default value if no value is explicitly provided
+        default: '150,200,0'
+        # Input has to be provided for the workflow to run
+        required: true
+        # The data type of the input
+        type: string
+      data_count:
+        # Friendly description to be shown in the UI instead of 'name'
+        description: 'Data Count(Only for match-summary & match-balls-summary | max 3000)'
+        # Input has to be provided for the workflow to run
+        required: false
+        # The data type of the input
+        type: string
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  k6_cloud_test:
+    name: k6 cloud test run
+    runs-on: generic
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+  
+      - name: Run k6 cloud test
+        uses: grafana/k6-action@v0.2.0
+        with:
+          filename: '${{inputs.test_script_path}} -e DURATION=${{inputs.duration}} -e TARGET=${{inputs.target}}'
+          if: ${{inputs.data_count}}
+          flags: --env DATACOUNT=${{inputs.data_count}}
+          cloud: true
+          token: '***********************'

@@ -1,0 +1,203 @@
+# This is a basic workflow that is manually triggered
+
+name: Scores Doamin all API calls
+
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API.
+on:
+  workflow_dispatch:
+    # Inputs the workflow accepts.
+    inputs:
+          # - './scripts/k6/rest-api/scoresapi-search-matches/scores-search-matches-test.js'
+          # - './scripts/k6/rest-api/scoresapi-match-balls-summary/scores-match-balls-summary-test.js'
+          # - './scripts/k6/rest-api/scoresapi-bowling-top-performers/scores-bowling-top-performers-test.js'
+          # - './scripts/k6/rest-api/scoresapi-team-match-list/scores-team-match-list-scenario-test.js'
+          # - './scripts/k6/rest-api/scoresapi-batting-top-performers/scores-batting-top-performers-test.js'
+          # - './scripts/k6/rest-api/scoresapi-match-highlights/scores-match-highlights-test.js'
+          # - './scripts/k6/rest-api/scoresapi-match-officials/scores-match-officials-test.js'
+          # - './scripts/k6/rest-api/scoresapi-player-match-details/scores-player-match-details-test.js'
+          # - './scripts/k6/rest-api/scoresapi-player-match-performances/scores-player-match-performances-test.js'
+          # - './scripts/k6/rest-api/scoresapi-rounds-list/scores-rounds-list-test.js'
+      duration:
+        # Friendly description to be shown in the UI instead of 'name'
+        description: 'Duration ex:10m,15m,5m'
+        # Default value if no value is explicitly provided
+        default: '10m,15m,5m'
+        # Input has to be provided for the workflow to run
+        required: true
+        # The data type of the input
+        type: string
+      target:
+        # Friendly description to be shown in the UI instead of 'name'
+        description: 'Target ex:150,200,0'
+        # Default value if no value is explicitly provided
+        default: '150,200,0'
+        # Input has to be provided for the workflow to run
+        required: true
+        # The data type of the input
+        type: string
+      data_count:
+        # Friendly description to be shown in the UI instead of 'name'
+        description: 'Data Count(Only for match-summary & match-balls-summary | max 3000)'
+        # Input has to be provided for the workflow to run
+        required: false
+        # The data type of the input
+        type: string
+      match_summary:
+        # Friendly description to be shown in the UI instead of 'name'
+        description: 'Is execute?'
+        # Input has to be provided for the workflow to run
+        required: true
+        # The data type of the input
+        type: string
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  k6_cloud_test_match_summary:
+    name: Match_Summary
+    runs-on: generic
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+  
+      - name: Run k6 cloud test
+        if: ${{inputs.match_summary}}
+        uses: grafana/k6-action@v0.2.0
+        with:
+          filename: './scripts/k6/rest-api/scoresapi-match-summary/scores-match-summary-scenario-test.js -e DURATION=${{inputs.duration}} -e TARGET=${{inputs.target}}'
+          if: ${{inputs.data_count}}
+          flags: --env DATACOUNT=${{inputs.data_count}}
+          cloud: true
+          token: '***********************'
+  k6_cloud_test_match_ball_summary:
+    name: Match_Ball_Summary
+    runs-on: generic
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+  
+      - name: Run k6 cloud test
+        uses: grafana/k6-action@v0.2.0
+        with:
+          filename: './scripts/k6/rest-api/scoresapi-match-balls-summary/scores-match-balls-summary-test.js -e DURATION=${{inputs.duration}} -e TARGET=${{inputs.target}}'
+          if: ${{inputs.data_count}}
+          flags: --env DATACOUNT=${{inputs.data_count}}
+          cloud: true
+          token: '***********************'
+  k6_cloud_test_grade_matches:
+    name: Grade_Matches
+    runs-on: generic
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+  
+      - name: Run k6 cloud test
+        uses: grafana/k6-action@v0.2.0
+        with:
+          filename: './scripts/k6/rest-api/scoresapi-grade-match-list/scores-grade-match-list-test.js -e DURATION=${{inputs.duration}} -e TARGET=${{inputs.target}}'
+          cloud: true
+          token: '***********************'
+  k6_cloud_test_matches_search:
+    name: Matches_Search
+    runs-on: generic
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+  
+      - name: Run k6 cloud test
+        uses: grafana/k6-action@v0.2.0
+        with:
+          filename: './scripts/k6/rest-api/scoresapi-search-matches/scores-search-matches-test.js -e DURATION=${{inputs.duration}} -e TARGET=${{inputs.target}}'
+          cloud: true
+          token: '***********************'
+  k6_cloud_test_bowling_top_performers:
+    name: Bowling_Performance
+    runs-on: generic
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+  
+      - name: Run k6 cloud test
+        uses: grafana/k6-action@v0.2.0
+        with:
+          filename: './scripts/k6/rest-api/scoresapi-bowling-top-performers/scores-bowling-top-performers-test.js -e DURATION=${{inputs.duration}} -e TARGET=${{inputs.target}}'
+          cloud: true
+          token: '***********************'
+  k6_cloud_test_team_matches:
+    name: Team_Matches
+    runs-on: generic
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+  
+      - name: Run k6 cloud test
+        uses: grafana/k6-action@v0.2.0
+        with:
+          filename: './scripts/k6/rest-api/scoresapi-team-match-list/scores-team-match-list-scenario-test.js -e DURATION=${{inputs.duration}} -e TARGET=${{inputs.target}}'
+          cloud: true
+          token: '***********************'
+  k6_cloud_test_batting_top_performers:
+    name: Batting_Performance
+    runs-on: generic
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+  
+      - name: Run k6 cloud test
+        uses: grafana/k6-action@v0.2.0
+        with:
+          filename: './scripts/k6/rest-api/scoresapi-batting-top-performers/scores-batting-top-performers-test.js -e DURATION=${{inputs.duration}} -e TARGET=${{inputs.target}}'
+          cloud: true
+          token: '***********************'
+  k6_cloud_test_batting_match_highlights:
+    name: Match_Highlight
+    runs-on: generic
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+  
+      - name: Run k6 cloud test
+        uses: grafana/k6-action@v0.2.0
+        with:
+          filename: './scripts/k6/rest-api/scoresapi-match-highlights/scores-match-highlights-test.js -e DURATION=${{inputs.duration}} -e TARGET=${{inputs.target}}'
+          cloud: true
+          token: '***********************'
+  k6_cloud_test_match_player_details:
+    name: Match_Player_Details
+    runs-on: generic
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+  
+      - name: Run k6 cloud test
+        uses: grafana/k6-action@v0.2.0
+        with:
+          filename: './scripts/k6/rest-api/scoresapi-player-match-details/scores-player-match-details-test.js -e DURATION=${{inputs.duration}} -e TARGET=${{inputs.target}}'
+          cloud: true
+          token: '***********************'
+  k6_cloud_test_match_player_performance:
+    name: Match_Player_Performance
+    runs-on: generic
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+  
+      - name: Run k6 cloud test
+        uses: grafana/k6-action@v0.2.0
+        with:
+          filename: './scripts/k6/rest-api/scoresapi-player-match-performances/scores-player-match-performances-test.js -e DURATION=${{inputs.duration}} -e TARGET=${{inputs.target}}'
+          cloud: true
+          token: '***********************'
+  k6_cloud_test_rounds:
+    name: Rounds
+    runs-on: generic
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+  
+      - name: Run k6 cloud test
+        uses: grafana/k6-action@v0.2.0
+        with:
+          filename: './scripts/k6/rest-api/scoresapi-rounds-list/scores-rounds-list-test.js -e DURATION=${{inputs.duration}} -e TARGET=${{inputs.target}}'
+          cloud: true
+          token: '***********************'

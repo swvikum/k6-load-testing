@@ -49,7 +49,7 @@ export function setup_ramp(loadName) {
                 // Test runs with the same name groups test runs together
                 name: loadName,
                 //staticIPs: true, //Akamai is currently configured with dynamic IPs
-                token: '8b4dc3e859d78834ce3ed681dd24b8ce9c978f24681184ecdff2ed72345528fc',
+                token: '***********************',
                 distribution: {
                     distributionLabel1: { loadZone: 'amazon:au:sydney', percent: 100 },
                     // distributionLabel2: { loadZone: 'amazon:sg:singapore', percent: 50 }
